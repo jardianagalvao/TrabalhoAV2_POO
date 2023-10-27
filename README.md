@@ -14,7 +14,7 @@ Este repositório contém o código e os recursos relacionados ao meu trabalho d
 Utilizar e aplicar conhecimentos básicos de Java. 
 
 ## Requisitos Gerais:
-Implementação do Diagrama de Classes: Desenvolver um programa em Java que implemente um diagrama de classes representado por um conjunto de classes interligadas de acordo com a estrutura mencionada no enunciado.
+- `Implementação do Diagrama de Classes`: Desenvolver um programa em Java que implemente um diagrama de classes representado por um conjunto de classes interligadas de acordo com a estrutura mencionada no enunciado.
 
 -  `Cadastrar Login e Senha`:
 Permitir que o usuário cadastre um login e uma senha.
