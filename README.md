@@ -21,16 +21,16 @@ Permitir que o usuário cadastre um login e uma senha.
 Armazenar os logins e senhas em um arquivo de texto.
 Login de Usuário:
 
-- Ajuste de Brilho de Imagem:
+- `Ajuste de Brilho de Imagem`:
 Receber uma imagem como entrada.
 Permitir ao usuário ajustar o brilho da imagem.
 Atualizar os valores de brilho da imagem com base nas coordenadas RGB de cada pixel.
 
-- Multiplicação de Matrizes:
+- `Multiplicação de Matrizes`:
 Ler os valores de duas matrizes a partir de um arquivo de texto.
 Realizar a multiplicação entre as matrizes.
 
-- Jogo de Adivinhação de Número:
+- `Jogo de Adivinhação de Número`:
 Desenvolver uma GUI (Interface Gráfica com o Usuário) com o Eclipse.
 Criar 20 botões (JButton), cada um correspondendo a um número entre 1 e 20.
 Permitir que o usuário clique nos botões para tentar adivinhar um número escolhido aleatoriamente pelo programa.
